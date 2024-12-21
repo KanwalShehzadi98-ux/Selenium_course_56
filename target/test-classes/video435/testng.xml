@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+[RemoteTestNG] detected TestNG version 7.4.0
+This is before suite method
+This is before test method
+This is method 3
+This is before class method
+This is before method method
+This is method 1
+This is after method method
+This is before method method
+This is method 2
+This is after method method
+This is after class method
+This is after test method
+This is before test method
+This is before class method
+This is before method method
+This is method 1
+This is after method method
+This is before method method
+This is method 2
+This is after method method
+This is after class method
+This is method 3
+This is after test method
+This is after suite method
+-->
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="video435.C2"/>
+      <class name="video435.C1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test  name="Test1">
+    <classes>
+      <class name="video435.C1"/>
+      <class name="video435.C2"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
+
